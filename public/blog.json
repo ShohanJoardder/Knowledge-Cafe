@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/47bNmML/view-arrangement-with-keyboard-notebooks.jpg",
+        "title": "The Enigmatic Adventure",
+        "author": "Samantha Johnson",
+        "author_img": "https://i.ibb.co/4RGpjJH/fivver-profile-image.jpg",
+        "posted_date": "September 5, 2023",
+        "reading_time": 15,
+        "hashtags": ["#Adventure", "#Mystery", "#Fiction"]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/rM7wMbn/laptop-eyeglasses-mouse-diary-pen-pot-plant-black-background.jpg",
+        "title": "Secrets of the Lost City",
+        "author": "James Anderson",
+        "author_img": "https://i.ibb.co/4RGpjJH/fivver-profile-image.jpg",
+        "posted_date": "August 20, 2023",
+        "reading_time": 30,
+        "hashtags": ["#Adventure", "#Mystery", "#Exploration"]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/2YyskLB/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "title": "Midnight Shadows",
+        "author": "Emily Roberts",
+        "author_img": "https://i.ibb.co/4RGpjJH/fivver-profile-image.jpg",
+        "posted_date": "July 12, 2023",
+        "reading_time": 25,
+        "hashtags": ["#Mystery", "#Suspense", "#Fiction"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/59kbtML/flat-lay-arrangement-with-study-items.jpg",
+        "title": "The Mysterious Island",
+        "author": "David Smith",
+        "author_img": "https://i.ibb.co/4RGpjJH/fivver-profile-image.jpg",
+        "posted_date": "June 3, 2023",
+        "reading_time": 40,
+        "hashtags": ["#Adventure", "#Mystery", "#Island"]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/VpMSLsk/worker-reading-news-with-tablet.jpg",
+        "title": "A Journey Through Time",
+        "author": "Lisa Brown",
+        "author_img": "https://i.ibb.co/4RGpjJH/fivver-profile-image.jpg",
+        "posted_date": "May 18, 2023",
+        "reading_time": 20,
+        "hashtags": ["#TimeTravel", "#Adventure", "#Fiction"]
+    }
+]
